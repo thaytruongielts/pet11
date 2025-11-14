@@ -1,0 +1,5 @@
+{
+  "name": "PET Reading Practice",
+  "description": "An application to help students practice for the PET (Preliminary English Test) reading exam. Users can take various reading tests and see their scores.",
+  "requestFramePermissions": []
+}
